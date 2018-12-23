@@ -8,5 +8,6 @@ namespace GitTest
 {
     class Branch1
     {
+        //Change
     }
 }
