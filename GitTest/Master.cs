@@ -8,6 +8,6 @@ namespace GitTest
 {
     public class Master
     {
-        //Master
+        //Master remote
     }
 }
