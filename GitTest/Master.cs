@@ -8,5 +8,6 @@ namespace GitTest
 {
     public class Master
     {
+        //Master
     }
 }
