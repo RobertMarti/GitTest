@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    class class1
+    class class2
     {
-        //class1
+        //class2
     }
 }
