@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="branch3.cs" />
     <Compile Include="branch2.cs" />
     <Compile Include="branch1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
