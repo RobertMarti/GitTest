@@ -2,6 +2,5 @@
 {
     class class1
     {
-        //master
     }
 }
