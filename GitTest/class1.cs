@@ -3,5 +3,7 @@
     class class1
     {
         //master
+        //master
+        //master
     }
 }
