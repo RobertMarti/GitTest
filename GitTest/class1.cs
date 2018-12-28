@@ -1,6 +1,6 @@
 ﻿namespace GitTest
 {
-    class class2
+    class class1
     {
     }
 }
